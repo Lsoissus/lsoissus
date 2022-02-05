@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lua scripting
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me [no]
+- Im 15!
 
 <!---
 lsoissus/lsoissus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

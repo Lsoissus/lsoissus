@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lsoissus
-- 👀 I’m interested in making FNF mods
-- 🌱 I’m currently learning lua scripting
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in making PT mods and roblox games
+- 🌱 I’m currently learning lua scripting and GML scripts
+- 💞️ I’m looking to collaborate on... im not sure, just ping me in discord (lsoisdumb) if you want to collaborate
 - 📫 How to reach me [no]
 - Im 15!
 
